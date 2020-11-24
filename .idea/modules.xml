@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/htmlToFile/html2file.iml" filepath="$PROJECT_DIR$/htmlToFile/html2file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/htmlToOther.iml" filepath="$PROJECT_DIR$/.idea/htmlToOther.iml" />
+    </modules>
+  </component>
+</project>
