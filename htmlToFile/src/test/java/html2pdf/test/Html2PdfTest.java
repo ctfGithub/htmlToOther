@@ -13,6 +13,6 @@ public class Html2PdfTest {
     @Test
     public void html2pdf() throws Exception {
         Html2PdfService html2PdfService = new Html2PdfService();//未引入spring，手动实例化
-        html2PdfService.excute("https://www.baidu.com/index.php");
+        html2PdfService.excute("file:///C:/Users/%E8%85%BE%E9%A3%9E/Desktop/%E9%87%91%E8%B4%9D%E5%B7%A5%E8%A1%8C/20062220281503100001.html");
     }
 }
